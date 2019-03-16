@@ -1,0 +1,16 @@
+﻿已經開始建置於 2014/9/26 上午 02:27:14。
+     1>節點 2 (Build 目標) 上的專案 "D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         D:\install software\程式\visual studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Assignment 1.cpp"
+         Assignment 1.cpp
+       Link:
+         D:\install software\程式\visual studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Debug\Project1.lib" /MACHINE:X86 "Debug\Assignment 1.obj"
+         Debug\Iterator.obj
+         Debug\stack.obj
+         Debug\Vector.obj
+         Project1.vcxproj -> D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Debug\Project1.exe
+     1>專案 "D:\元智大學\大二\上學期\資料結構\作業\1021522-hw1\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.40
